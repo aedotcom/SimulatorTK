@@ -1,0 +1,6 @@
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Release\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Release\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Release\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Release\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Release\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Release\QuickFont.pdb

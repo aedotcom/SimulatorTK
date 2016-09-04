@@ -1,0 +1,213 @@
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\NUnitTests.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\Geometry.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\nunit.framework.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\Geometry.pdb
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\nunit.framework.xml
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\WinOPenGL\Simulator\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\Simulator\NUnitTests\obj\Debug\NUnitTests.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\NUnitTests.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\Geometry.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\Interfaces.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\nunit.framework.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.Compatibility.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.dll
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\Geometry.pdb
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\Interfaces.pdb
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.pdb
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.xml
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.xml
+C:\WinOPenGL\Simulator\NUnitTests\bin\Debug\nunit.framework.xml
+C:\WinOPenGL\Simulator\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\NUnitTests\obj\Debug\NUnitTests.pdb
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\NUnitTests.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\NUnitTests.pdb
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\Geometry.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\Interfaces.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\nunit.framework.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.Compatibility.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.dll
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\Geometry.pdb
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\Interfaces.pdb
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\OpenTK.GLControl.xml
+E:\AVF_INFO\Simulator\NUnitTests\bin\Debug\nunit.framework.xml
+E:\AVF_INFO\Simulator\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator\NUnitTests\obj\Debug\NUnitTests.dll
+E:\AVF_INFO\Simulator\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\NUnitTests.dll
+D:\Graphics\Simulator\NUnitTests\bin\Debug\NUnitTests.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\Geometry.dll
+D:\Graphics\Simulator\NUnitTests\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator\NUnitTests\bin\Debug\nunit.framework.dll
+D:\Graphics\Simulator\NUnitTests\bin\Debug\Geometry.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator\NUnitTests\bin\Debug\nunit.framework.xml
+D:\Graphics\Simulator\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\NUnitTests\obj\Debug\NUnitTests.dll
+D:\Graphics\Simulator\NUnitTests\obj\Debug\NUnitTests.pdb
+D:\Graphics\Simulator\NUnitTests\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\NUnitTests.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\NUnitTests.pdb
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\Geometry.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\nunit.framework.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\Geometry.pdb
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator V7\NUnitTests\bin\Debug\nunit.framework.xml
+D:\Graphics\Simulator V7\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator V7\NUnitTests\obj\Debug\NUnitTests.dll
+D:\Graphics\Simulator V7\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\obj\Debug\NUnitTests.pdb
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\NUnitTests.dll
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\NUnitTests.pdb
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\Geometry.dll
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\nunit.framework.dll
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\Geometry.pdb
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\nunit.framework.xml
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator V12\NUnitTests\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V12\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator V12\NUnitTests\obj\Debug\NUnitTests.dll
+E:\AVF_INFO\Simulator V12\NUnitTests\obj\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\Simulator.Core.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\Simulator.Core.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\NUnitTests\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\Simulator.Core.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\Simulator.Core.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\NUnitTests\obj\Debug\NUnitTests.pdb

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BasicFlightSimulator\BasicFlightSimulator.vbproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicFlightSimulator\Program.vb">
+    <Files>
+      <File FileName="BasicFlightSimulator\Program.vb" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

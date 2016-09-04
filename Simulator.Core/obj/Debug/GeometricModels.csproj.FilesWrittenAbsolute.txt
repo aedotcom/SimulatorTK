@@ -1,0 +1,8 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/bin/Debug/GeometricModels.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/bin/Debug/GeometricModels.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/obj/Debug/GeometricModels.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/obj/Debug/GeometricModels.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/bin/Debug/OpenTK.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/bin/Debug/OpenTK_Extensions.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/GeometricModels/bin/Debug/OpenTK_Extensions.dll.mdb

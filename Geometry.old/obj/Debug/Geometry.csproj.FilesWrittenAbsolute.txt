@@ -1,0 +1,7 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/bin/Debug/Geometry.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/bin/Debug/Geometry.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/obj/Debug/Geometry.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/obj/Debug/Geometry.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/bin/Debug/Interfaces.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Geometry/bin/Debug/Interfaces.dll.mdb

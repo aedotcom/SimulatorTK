@@ -1,0 +1,100 @@
+C:\WinOPenGL\QuickFont\QuickFont\bin\Debug\QuickFont.dll
+C:\WinOPenGL\QuickFont\QuickFont\bin\Debug\QuickFont.pdb
+C:\WinOPenGL\QuickFont\QuickFont\bin\Debug\OpenTK.dll
+C:\WinOPenGL\QuickFont\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\QuickFont\QuickFont\obj\Debug\QuickFont.dll
+C:\WinOPenGL\QuickFont\QuickFont\obj\Debug\QuickFont.pdb
+C:\WinOPenGL\Simulator\QuickFont\bin\Debug\QuickFont.dll
+C:\WinOPenGL\Simulator\QuickFont\bin\Debug\QuickFont.pdb
+C:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.dll
+C:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.pdb
+C:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.xml
+C:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.dll
+C:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.pdb
+F:\WinOPenGL\Simulator\QuickFont\bin\Debug\QuickFont.dll
+F:\WinOPenGL\Simulator\QuickFont\bin\Debug\QuickFont.pdb
+F:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.dll
+F:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.pdb
+F:\WinOPenGL\Simulator\QuickFont\bin\Debug\OpenTK.xml
+F:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+F:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.dll
+F:\WinOPenGL\Simulator\QuickFont\obj\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator\QuickFont\bin\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator\QuickFont\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator\QuickFont\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator\QuickFont\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator\QuickFont\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator\QuickFont\obj\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator\QuickFont\obj\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\QuickFont\bin\Debug\QuickFont.dll
+D:\Graphics\Simulator\QuickFont\bin\Debug\QuickFont.pdb
+D:\Graphics\Simulator\QuickFont\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator\QuickFont\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\QuickFont\obj\Debug\QuickFont.dll
+D:\Graphics\Simulator\QuickFont\obj\Debug\QuickFont.pdb
+D:\Graphics\Simulator\QuickFont\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator V7\QuickFont\bin\Debug\QuickFont.dll
+D:\Graphics\Simulator V7\QuickFont\bin\Debug\QuickFont.pdb
+D:\Graphics\Simulator V7\QuickFont\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator V7\QuickFont\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator V7\QuickFont\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator V7\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator V7\QuickFont\obj\Debug\QuickFont.dll
+D:\Graphics\Simulator V7\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\QuickFont\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V10\QuickFont\bin\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V10\QuickFont\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator V10\QuickFont\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator V10\QuickFont\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator V10\QuickFont\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V10\QuickFont\obj\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V10\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\obj\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator V12\QuickFont\bin\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V12\QuickFont\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator V12\QuickFont\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator V12\QuickFont\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator V12\QuickFont\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V12\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator V12\QuickFont\obj\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V12\QuickFont\obj\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache

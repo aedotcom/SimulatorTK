@@ -1,0 +1,117 @@
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\M1021311\Desktop\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\OpenTK.dll
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\QuickFont.dll
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\TextArea V4\ButtonLibrary\bin\Debug\OpenTK.xml
+E:\AVF_INFO\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+E:\AVF_INFO\TextArea V4\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\QuickFont.dll
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\QuickFont.pdb
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+D:\Graphics\Simulator\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator\ButtonLibrary\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.dll
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\QuickFont.dll
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\QuickFont.pdb
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.pdb
+D:\Graphics\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.xml
+D:\Graphics\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+D:\Graphics\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V9\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator V10\ButtonLibrary\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+E:\AVF_INFO\Simulator V10\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V11\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.pdb
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\ButtonLibrary.dll
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\ButtonLibrary.pdb
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.dll
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\QuickFont.dll
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\QuickFont.pdb
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.pdb
+E:\AVF_INFO\Simulator V12\ButtonLibrary\bin\Debug\OpenTK.xml
+E:\AVF_INFO\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.dll
+E:\AVF_INFO\Simulator V12\ButtonLibrary\obj\Debug\ButtonLibrary.pdb

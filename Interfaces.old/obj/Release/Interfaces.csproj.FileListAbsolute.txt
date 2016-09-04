@@ -1,0 +1,4 @@
+C:\WinOPenGL\Simulator\Interfaces\bin\Release\Interfaces.dll
+C:\WinOPenGL\Simulator\Interfaces\bin\Release\Interfaces.pdb
+C:\WinOPenGL\Simulator\Interfaces\obj\Release\Interfaces.dll
+C:\WinOPenGL\Simulator\Interfaces\obj\Release\Interfaces.pdb

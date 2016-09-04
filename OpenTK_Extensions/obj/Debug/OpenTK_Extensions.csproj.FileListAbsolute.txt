@@ -1,0 +1,11 @@
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\bin\Debug\OpenTK_Extensions.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\bin\Debug\OpenTK_Extensions.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\bin\Debug\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\bin\Debug\OpenTK.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\OpenTK_Extensions\bin\Debug\OpenTK.xml
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\OpenTK_Extensions\obj\Debug\OpenTK_Extensions.pdb

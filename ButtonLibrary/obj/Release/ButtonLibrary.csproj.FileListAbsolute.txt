@@ -1,0 +1,8 @@
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Release\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Release\ButtonLibrary.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Release\OpenTK.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Release\QuickFont.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\bin\Release\QuickFont.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Release\ButtonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Release\ButtonLibrary.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\Simulator V10\ButtonLibrary\obj\Release\ButtonLibrary.pdb

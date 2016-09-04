@@ -1,0 +1,6 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/bin/Debug/QuickFont.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/bin/Debug/QuickFont.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/obj/Debug/QuickFont.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/obj/Debug/QuickFont.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/QuickFont/bin/Debug/OpenTK.dll

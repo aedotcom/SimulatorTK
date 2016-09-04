@@ -1,0 +1,28 @@
+C:\WinOPenGL\Simulator\Interfaces\bin\Debug\Interfaces.dll
+C:\WinOPenGL\Simulator\Interfaces\bin\Debug\Interfaces.pdb
+C:\WinOPenGL\Simulator\Interfaces\obj\Debug\Interfaces.dll
+C:\WinOPenGL\Simulator\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Interfaces\obj\Debug\Interfaces.pdb
+E:\AVF_INFO\Simulator\Interfaces\bin\Debug\Interfaces.dll
+E:\AVF_INFO\Simulator\Interfaces\bin\Debug\Interfaces.pdb
+E:\AVF_INFO\Simulator\Interfaces\obj\Debug\Interfaces.dll
+E:\AVF_INFO\Simulator\Interfaces\obj\Debug\Interfaces.pdb
+E:\AVF_INFO\Simulator\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\Interfaces\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator\Interfaces\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\Interfaces\obj\Debug\Interfaces.dll
+D:\Graphics\Simulator\Interfaces\obj\Debug\Interfaces.pdb
+D:\Graphics\Simulator V7\Interfaces\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator V7\Interfaces\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator V7\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator V7\Interfaces\obj\Debug\Interfaces.dll
+D:\Graphics\Simulator V7\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Interfaces\obj\Debug\Interfaces.pdb

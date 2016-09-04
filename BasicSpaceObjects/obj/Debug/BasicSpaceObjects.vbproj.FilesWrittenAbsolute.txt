@@ -1,0 +1,10 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.vb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/obj/Debug/BasicSpaceObjects.Resources.resources
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/obj/Debug/BasicSpaceObjects.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/OpenTK.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/OpenTK.Compatibility.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/OpenTK.GLControl.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/Geometry.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/Geometry.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/Interfaces.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/CLI/OpenTK/Version04/Simulator/BasicSpaceObjects/bin/Debug/Interfaces.dll.mdb

@@ -1,0 +1,11 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/NUnitTests.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/NUnitTests.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/obj/Debug/NUnitTests.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/obj/Debug/NUnitTests.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/nunit.framework.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/OpenTK.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/Geometry.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/Geometry.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/Interfaces.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/NUnitTests/bin/Debug/Interfaces.dll.mdb

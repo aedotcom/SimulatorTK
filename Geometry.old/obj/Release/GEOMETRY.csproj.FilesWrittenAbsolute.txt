@@ -1,0 +1,4 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/FlightSim/CLI/OpenTK/Version2/FlightSim/Geometry/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/FlightSim/CLI/OpenTK/Version2/FlightSim/Geometry/bin/Release/Geometry.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/FlightSim/CLI/OpenTK/Version2/FlightSim/Geometry/obj/Release/Geometry.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/FlightSim/CLI/OpenTK/Version2/FlightSim/Geometry/obj/Release/Geometry.dll.mdb

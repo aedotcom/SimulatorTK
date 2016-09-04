@@ -1,0 +1,62 @@
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\bin\Debug\Geometry.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\bin\Debug\Geometry.pdb
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\obj\Debug\Geometry.dll
+C:\WinOPenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\obj\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\FlightSim\CLI\OpenTK\Version2\FlightSim\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\Geometry\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\Geometry\obj\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version3\Simulator\Geometry\obj\Debug\Geometry.pdb
+C:\WinOPenGL\Simulator\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\WinOPenGL\Simulator\Geometry\obj\Debug\Geometry.dll
+C:\WinOPenGL\Simulator\Geometry\obj\Debug\Geometry.pdb
+C:\WinOPenGL\Simulator\Geometry\bin\Debug\Geometry.dll
+C:\WinOPenGL\Simulator\Geometry\bin\Debug\Geometry.pdb
+C:\WinOPenGL\Simulator\Geometry\bin\Debug\Interfaces.dll
+C:\WinOPenGL\Simulator\Geometry\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\obj\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\CLI\OpenTK\Version04\Simulator\Geometry\obj\Debug\Geometry.pdb
+E:\AVF_INFO\Simulator\Geometry\bin\Debug\Geometry.dll
+E:\AVF_INFO\Simulator\Geometry\bin\Debug\Geometry.pdb
+E:\AVF_INFO\Simulator\Geometry\bin\Debug\Interfaces.dll
+E:\AVF_INFO\Simulator\Geometry\bin\Debug\Interfaces.pdb
+E:\AVF_INFO\Simulator\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+E:\AVF_INFO\Simulator\Geometry\obj\Debug\Geometry.dll
+E:\AVF_INFO\Simulator\Geometry\obj\Debug\Geometry.pdb
+D:\Graphics\Simulator\Geometry\bin\Debug\Geometry.dll
+D:\Graphics\Simulator\Geometry\bin\Debug\Geometry.pdb
+D:\Graphics\Simulator\Geometry\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator\Geometry\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator\Geometry\obj\Debug\Geometry.dll
+D:\Graphics\Simulator\Geometry\obj\Debug\Geometry.pdb
+D:\Graphics\Simulator V7\Geometry\bin\Debug\Geometry.dll
+D:\Graphics\Simulator V7\Geometry\bin\Debug\Geometry.pdb
+D:\Graphics\Simulator V7\Geometry\bin\Debug\Interfaces.dll
+D:\Graphics\Simulator V7\Geometry\bin\Debug\Interfaces.pdb
+D:\Graphics\Simulator V7\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\Graphics\Simulator V7\Geometry\obj\Debug\Geometry.dll
+D:\Graphics\Simulator V7\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\obj\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V7\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\bin\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\bin\Debug\Interfaces.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\bin\Debug\Interfaces.pdb
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\obj\Debug\Geometry.dll
+C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\Simulator V8\Geometry\obj\Debug\Geometry.pdb

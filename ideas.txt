@@ -1,0 +1,211 @@
+9:57 PM 8/30/2015
+BasicModels has to be a Console App to work in Mono & a Console App needs a main method to make Visual Studio happy
+-- so re-add the file thas excluded & rename it Program.vb & use the Visual Studio settings to change it back to a 
+Console App
+
+5:45 PM 7/26/2015
+The master VBO example did work in linux - linux just didn't like the "..\\..\\logo.jpg"
+- and it somehow has 1 index array but multiple texture coordinates per vertex
+ (but some of the faces look like 1 line of the image is stretched all the way across)
+
+------------they had 6 vertices per face - was that just b/c the quad face was split into 2 triangles?
+------------YES EXACTLY - and it only allows 1 text coord per vertex :(
+
+
+
+
+1:13 PM 6/22/2015
+Changing solution name in Mono really mucked things up, so remake a new TextAreaV4 solution,, then try:
+			GL.Ortho(0, 800, 600, 0, -1, 1);
+			GL.Viewport(0, 0, 800, 600);			
+			......
+			GL.MatrixMode(MatrixMode.Projection);
+			GL.LoadIdentity();
+to see if QuickFont can be compatible w/ standard 2D drawing
+
+
+
+6/15/2015
+To do VertexBufferObjects correctly, even in pure unmanaged C, you still need an index array aka element array
+
+
+ScreenButtonLibrary could have an IButton interface which would be useful for graphing a whole list of buttons
+even though you'd have to also have an object type reference to setup the specific attriutes of TextArea, ColorARea, ImageARea....
+... then maybe store (some) to an OpenTK Display List??
+
+
+6/14/2015
+use the override UnLoad function in OpenTK!!!!!!!!!!!!!!!!!!!!!!
+
+QuickFont does not always work in Linux :(
+
+
+
+
+
+Todo:
+(1) Figure out min code to run QuickFont
+(2) Bundle OpenTK Texture Example into a texure object & b sure 2 use C# Destructor 2 release in OpenGL  "TextureTK" ??
+(3) work on mesh objects?
+
+
+========================================================================================================== 
+idea: abstract base class SpaceObject that is inherited by Mesh & PrimitiveList graphable objects
+- data fields: Center
+               some kind of abstraction of motion, maybe IEquation that could be polar or parametric variable...
+               List of colission objects?
+               ???????????????
+
+========================================================================================================== 
+regardles of any documentation, I'm prettysure OpenTK's GL.LoadMatrix(Single* ptr) is really row first
+b/c it just takes the base addr of their Matrix4 which is a struct w/ 4 row structs
+
+maybe I could do something like:
+using OpenTK.Graphics.OpenGL;
+...
+            unsafe
+
+            {
+
+                fixed (Single* m_ptr = &mat.Data[0, 0])
+
+                {
+
+                    GL.LoadMatrix((Single*)m_ptr);   //would have to be 4X4 matrix!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+                }
+
+            }
+
+but I'd have to check it works in Linux MonoDevelop!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+.To1DArray() [row or column first] would be less effient anyway b/c it requires allocating more memory 
+every time you set the camera
+
+
+
+========================================================================================== 
+It's tempting for max speed & flexibility, to have each Mesh have a MaterialDataArray grid
+where there is a linked list of MaterialGroup objects, but each MaterialGroup has 
+   1 index array for triangles w/ that material & 1 index array of quads w/ that material
+(+ 1 bool array for triangles & 1 bool array array for quads for selection status)
+
+== but this means great complexity.  If you change the material of 1 triangle, you have to shift 
+all indices after it & add those indices to a different (possibly new) MaterialGroup object in the list
+
+
++ you actually do have to keep track of the sizes b/c the arrays will have to be longer than the current length
+to avoid constant re-allocation, even in C# b/c this is not a linked list, it's an array
+
+
+- add / remove triangle/quad would be so hard you'd need to make lots of unit tests
+-- re-calculate normals would be especially hard - you'd have to (a) match points on xyz, 
+(b) recalculate 1 normal for each polygon that touches that shared point, (c) make sure the normals are 
+pointing "out" away from the center of the mesh - and (d) this is especially hard b/c you have to check for 
+matching xyz in different MaterialGroup objects!
+
+
+
+
+(A mesh still needs a list of lines & points too)
+
+make line contain 2 point objects
+
+............
+
+Tao.FreeGlut VBO?
+..................................................................................................
+
+Maybe Triangle, Quad & Polygon should have a static Integer for the id of the last used material - so you only 
+re-apply it if it has changed....
+ --- or better, could it be a static Integer in an abstact base class so it applies to all material/texture shapes?
+
+Maybe the FileLoader should return a whole mesh object or a list of points/lines for non-mesh data
+  & maybe static list of texture images shared accross the entire mesh class is best after all
+(Would images for ImageButtons be unrelated?  Statically shared by that class?)
+
+
+Maybe there should be 1 mesh object that has 1 array of triangle elements & 1 array of quad elements
+& points & lines should just always be drawn impariteively
+
+
+
+
+Maybe the list of type IGraphable should be SeaOfSimulation
+
+
+IGraphable.Graph(CameraShip ship)
+ICollidable.Inside(x,y,z)
+
+
+
+Camera will need a 4X4 matrix for LookAT
+but the RotateAny(...) for CameraShip's pitch, roll & yaw 3H4 may be enough - or even 3X3???
+
+remember to have the CameraShip's spotlight change color
+
+
+Try to ask the MonoGame people why the VBO code did not work on Linux... (and maybe the people who wrote it!)
+
+Should the mesh object (SimulationMesh ?) have a list of points, list of lines, list of triangles & list of quads
+Or should there be 5 different mesh objects w/ interfaces - PointMesh, LineMesh, TriangleMesh, QuadMesh & FullMesh
+-- the latter is more complex, but slightly more efficient, but then again, only doing afew tests to skip over 
+empty lists per object is not that bad --- doing it per polygon would be horrible.....
+--- maybe do 2nd optoin - that means the PointList.vb object can be renamed as the "PointMesh"
+--- probably translate PointList.vb -> PointMesh.cs ---  still have IModelLoader.vb & ModelLoader.vb as good vb examples
+---------- so AdvancedSpaceObjects can directly reference BasicSpaceObjects & ModelLoader references 
+           SeaOfSimulation thru interface layer
+
+What if the ImageButton class used events instead of function delegates???
+
+
+Try poping up 2 game windows!!!!!!!!!!!!!!!          
+
+make a comet particle fountain
+
+work on java console thru ActiveMQ
+
+CameraShip inherits from Camera???????
+
+I wanted Matrix3H4 to have the last column stored as separate TX, TY, TZ variables so it could inherit from Matrix3x3 & make the code easier to read, but this would make w/ the abstract base classes's clone method....
+--- also, an actual float[3,4] array would make porting code easier...
+
+Make sure the light# in MyLightSource is settable (as to OpenGL # 0 - 7) !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+VB: point, line, triangle, quad, polygon, 
+C#: LightSource, Camera, CameraShip.... SeaOfSimulation.... PointList, ColorArea, TextArea, ImageArea
+
+make sure user can change the color of the spotlight on the CameraShip
+
+
+SeaOfSimulation probably has  to have arrays to work w/ VBO... .: will need manual resizing....
+
+ICollidable -> ColissionSphere, CollissionCylinder, CollisionCube.... & Mesh  has list of collision objects
+
+'Basic Space Objects in VB
+'list of images, texture coordinates, normals & vertices in SeaOfSimulation
+'later test if Tao.Glut is really slower
+
+Also interesting to write out all the code to do a MxN matrix backslash & see if it's really slower or if a generic unrolled 3x3 solution is slower
+ --- but that may be "gold plating" & a huge wast of time
+
+
+
+"ModelFiles" folder & hack the 'hint path' so it will be copied as a folder next to the .exe like w/ OpenTK folder
+ === then I could have real file read in unit tests too
+ ======== make test files w/ just a few entries so it's reasonably fast
+
+
+ParametricEquation interface which can be implimented by CircleParametricEquation, LinearParametricEquation, PolynomailParametricEquatoin.... --- need different detailed constructors & public properties to make that work...
+
+--- re-do Orbiter in terms of CircleParamatricEquation
+
+
+
+
+I think Point should have not methods *but still be a clas*  & have PointList graph it by accessing it's public variables
+But I definitely want a Graphable interface w/ a Graph(CameraShip camera = null)  method for PointList & the other graphing objects
+ ------ use plant-point vector algebra to quickly eliminate anything behind the camera
+
+remember
+http://www.opentk.com/doc/input/joystick

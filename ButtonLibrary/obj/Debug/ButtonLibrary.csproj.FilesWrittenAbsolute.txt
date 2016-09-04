@@ -1,0 +1,8 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/bin/Debug/ButtonLibrary.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/bin/Debug/ButtonLibrary.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/obj/Debug/ButtonLibrary.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/obj/Debug/ButtonLibrary.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/bin/Debug/OpenTK.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/bin/Debug/QuickFont.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/ButtonLibrary/bin/Debug/QuickFont.dll.mdb

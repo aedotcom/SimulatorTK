@@ -1,0 +1,5 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Interfaces/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Interfaces/bin/Debug/Interfaces.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Interfaces/bin/Debug/Interfaces.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Interfaces/obj/Debug/Interfaces.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/Interfaces/obj/Debug/Interfaces.dll.mdb

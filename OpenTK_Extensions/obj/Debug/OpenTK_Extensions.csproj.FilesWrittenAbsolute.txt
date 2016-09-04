@@ -1,0 +1,6 @@
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/bin/Debug/OpenTK_Extensions.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/bin/Debug/OpenTK_Extensions.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/obj/Debug/OpenTK_Extensions.dll
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/obj/Debug/OpenTK_Extensions.dll.mdb
+/mnt/hgfs/Matrix/CODE/WinOpenGL/Simulator/Simulator V7/OpenTK_Extensions/bin/Debug/OpenTK.dll
