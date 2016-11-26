@@ -146,3 +146,6 @@ C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\BasicFlight
 C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\BasicFlightSimulator\bin\Debug\OpenTK.pdb
 C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\BasicFlightSimulator\bin\Debug\QuickFont.pdb
 C:\Users\Will\Matrix\CODE\WinOpenGL\Simulator\OpenTK\SimulatorTK V12\BasicFlightSimulator\obj\Debug\BasicFlightSimulator.vbprojResolveAssemblyReference.cache
+C:\GitHub\SimulatorTK\BasicFlightSimulator\bin\Debug\BasicFlightSimulator.exe.config
+C:\GitHub\SimulatorTK\BasicFlightSimulator\obj\Debug\BasicFlightSimulator.exe
+C:\GitHub\SimulatorTK\BasicFlightSimulator\obj\Debug\BasicFlightSimulator.pdb

@@ -23,6 +23,8 @@ namespace WPFGrapher
         public MainWindow()
         {
             InitializeComponent();
+
+
         }
     }
 }
